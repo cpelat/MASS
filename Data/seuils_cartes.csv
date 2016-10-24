@@ -1,0 +1,866 @@
+"Source","Classe_age","RS","seuil_Proportion","seuil_Proportion2"
+"SAU","Tous ages","Asthme",0.00716501900927932,72
+"SAU","Tous ages","Asthme",0.00944904749785683,94
+"SAU","Tous ages","Asthme",0.0117330759864343,117
+"SAU","Tous ages","Bronchiolite",0.00357862547744655,36
+"SAU","Tous ages","Bronchiolite",0.00653728459380862,65
+"SAU","Tous ages","Bronchiolite",0.00949594371017069,95
+"SAU","Tous ages","Bronchite",0.00426696099523567,43
+"SAU","Tous ages","Bronchite",0.00620030343709259,62
+"SAU","Tous ages","Bronchite",0.00813364587894951,81
+"SAU","Tous ages","Fievre isolee",0.0130786079819006,131
+"SAU","Tous ages","Fievre isolee",0.0150048420850375,150
+"SAU","Tous ages","Fievre isolee",0.0169310761881744,169
+"SAU","Tous ages","Gastro-enterite",0.0139648370435387,140
+"SAU","Tous ages","Gastro-enterite",0.0184531149761998,185
+"SAU","Tous ages","Gastro-enterite",0.022941392908861,229
+"SAU","Tous ages","Infection respiratoire aigue basse",0.0230299012103419,230
+"SAU","Tous ages","Infection respiratoire aigue basse",0.0322206675778314,322
+"SAU","Tous ages","Infection respiratoire aigue basse",0.041411433945321,414
+"SAU","Tous ages","Intoxication par ingestion de champignons",0,0
+"SAU","Tous ages","Malaise",0.0303117936996641,303
+"SAU","Tous ages","Malaise",0.0324262861697615,324
+"SAU","Tous ages","Malaise",0.0345407786398589,345
+"SAU","Tous ages","Meningite",0.000115347559596691,1
+"SAU","Tous ages","Meningite",0.00019039447639813,2
+"SAU","Tous ages","Meningite",0.000265441393199569,3
+"SAU","Tous ages","Pneumopathie",0.0127450798478297,127
+"SAU","Tous ages","Pneumopathie",0.0155149428431191,155
+"SAU","Tous ages","Pneumopathie",0.0182848058384085,183
+"SAU","Tous ages","Syndrome grippal",0.00135042197167599,14
+"SAU","Tous ages","Syndrome grippal",0.00226763876655011,23
+"SAU","Tous ages","Syndrome grippal",0.00318485556142423,32
+"SAU","Tous ages","Toxi-infection alimentaire collective",0.000224745804639455,2
+"SAU","Tous ages","Toxi-infection alimentaire collective",0.000335835154855147,3
+"SAU","Tous ages","Toxi-infection alimentaire collective",0.00044692450507084,4
+"SAU","Moins de 2 ans","Asthme",0.0125903195328949,126
+"SAU","Moins de 2 ans","Asthme",0.0193312605622559,193
+"SAU","Moins de 2 ans","Asthme",0.0260722015916168,261
+"SAU","Moins de 2 ans","Bronchiolite",0.0461126706362938,461
+"SAU","Moins de 2 ans","Bronchiolite",0.0816091400263379,816
+"SAU","Moins de 2 ans","Bronchiolite",0.117105609416382,1171
+"SAU","Moins de 2 ans","Bronchite",0.00616047594081657,62
+"SAU","Moins de 2 ans","Bronchite",0.00958356950353221,96
+"SAU","Moins de 2 ans","Bronchite",0.0130066630662478,130
+"SAU","Moins de 2 ans","Fievre isolee",0.0702000197628193,702
+"SAU","Moins de 2 ans","Fievre isolee",0.0850545599794029,851
+"SAU","Moins de 2 ans","Fievre isolee",0.0999091001959864,999
+"SAU","Moins de 2 ans","Gastro-enterite",0.0779659840371003,780
+"SAU","Moins de 2 ans","Gastro-enterite",0.108580680711075,1086
+"SAU","Moins de 2 ans","Gastro-enterite",0.139195377385051,1392
+"SAU","Moins de 2 ans","Infection respiratoire aigue basse",0.0641097314699084,641
+"SAU","Moins de 2 ans","Infection respiratoire aigue basse",0.109756504250687,1098
+"SAU","Moins de 2 ans","Infection respiratoire aigue basse",0.155403277031465,1554
+"SAU","Moins de 2 ans","Intoxication par ingestion de champignons",0,0
+"SAU","Moins de 2 ans","Malaise",0.0063849004849536,64
+"SAU","Moins de 2 ans","Malaise",0.00787638739209067,79
+"SAU","Moins de 2 ans","Malaise",0.00936787429922774,94
+"SAU","Moins de 2 ans","Meningite",6.41221133236302e-05,1
+"SAU","Moins de 2 ans","Meningite",0.00012824422664726,1
+"SAU","Moins de 2 ans","Meningite",0.00019236633997089,2
+"SAU","Moins de 2 ans","Pneumopathie",0.00701423874667228,70
+"SAU","Moins de 2 ans","Pneumopathie",0.0111319417500935,111
+"SAU","Moins de 2 ans","Pneumopathie",0.0152496447535147,152
+"SAU","Moins de 2 ans","Syndrome grippal",0.00233753183232406,23
+"SAU","Moins de 2 ans","Syndrome grippal",0.0037754235207057,38
+"SAU","Moins de 2 ans","Syndrome grippal",0.00521331520908734,52
+"SAU","Moins de 2 ans","Toxi-infection alimentaire collective",0.000167367766575041,2
+"SAU","Moins de 2 ans","Toxi-infection alimentaire collective",0.000334735533150082,3
+"SAU","Moins de 2 ans","Toxi-infection alimentaire collective",0.000502103299725123,5
+"SAU","Moins de 5 ans","Asthme",0.0176547508971112,177
+"SAU","Moins de 5 ans","Asthme",0.0267209838247934,267
+"SAU","Moins de 5 ans","Asthme",0.0357872167524756,358
+"SAU","Moins de 5 ans","Bronchiolite",0.02666078881225,267
+"SAU","Moins de 5 ans","Bronchiolite",0.0475507614662147,476
+"SAU","Moins de 5 ans","Bronchiolite",0.0684407341201794,684
+"SAU","Moins de 5 ans","Bronchite",0.00662068092733304,66
+"SAU","Moins de 5 ans","Bronchite",0.0106168430164531,106
+"SAU","Moins de 5 ans","Bronchite",0.0146130051055731,146
+"SAU","Moins de 5 ans","Fievre isolee",0.060753558770404,608
+"SAU","Moins de 5 ans","Fievre isolee",0.070229508186109,702
+"SAU","Moins de 5 ans","Fievre isolee",0.079705457601814,797
+"SAU","Moins de 5 ans","Gastro-enterite",0.0608752581779239,609
+"SAU","Moins de 5 ans","Gastro-enterite",0.083008103609262,830
+"SAU","Moins de 5 ans","Gastro-enterite",0.1051409490406,1051
+"SAU","Moins de 5 ans","Infection respiratoire aigue basse",0.0462106929886403,462
+"SAU","Moins de 5 ans","Infection respiratoire aigue basse",0.0785832043732294,786
+"SAU","Moins de 5 ans","Infection respiratoire aigue basse",0.110955715757818,1110
+"SAU","Moins de 5 ans","Intoxication par ingestion de champignons",0,0
+"SAU","Moins de 5 ans","Malaise",0.00504480311074888,50
+"SAU","Moins de 5 ans","Malaise",0.00590953124554978,59
+"SAU","Moins de 5 ans","Malaise",0.00677425938035068,68
+"SAU","Moins de 5 ans","Meningite",0.000128845881121573,1
+"SAU","Moins de 5 ans","Meningite",0.000257691762243146,3
+"SAU","Moins de 5 ans","Meningite",0.000386537643364719,4
+"SAU","Moins de 5 ans","Pneumopathie",0.00832125287477082,83
+"SAU","Moins de 5 ans","Pneumopathie",0.013143147298591,131
+"SAU","Moins de 5 ans","Pneumopathie",0.0179650417224112,180
+"SAU","Moins de 5 ans","Syndrome grippal",0.00269510497684328,27
+"SAU","Moins de 5 ans","Syndrome grippal",0.00457403148266089,46
+"SAU","Moins de 5 ans","Syndrome grippal",0.00645295798847851,65
+"SAU","Moins de 5 ans","Toxi-infection alimentaire collective",0.000157069422759203,2
+"SAU","Moins de 5 ans","Toxi-infection alimentaire collective",0.000314138845518406,3
+"SAU","Moins de 5 ans","Toxi-infection alimentaire collective",0.000471208268277608,5
+"SAU","Moins de 15 ans","Asthme",0.0163549382845816,164
+"SAU","Moins de 15 ans","Asthme",0.022925329405718,229
+"SAU","Moins de 15 ans","Asthme",0.0294957205268543,295
+"SAU","Moins de 15 ans","Bronchiolite",0.014589056551382,146
+"SAU","Moins de 15 ans","Bronchiolite",0.0262190954966092,262
+"SAU","Moins de 15 ans","Bronchiolite",0.0378491344418364,378
+"SAU","Moins de 15 ans","Bronchite",0.00460939017581056,46
+"SAU","Moins de 15 ans","Bronchite",0.00738006220084624,74
+"SAU","Moins de 15 ans","Bronchite",0.0101507342258819,102
+"SAU","Moins de 15 ans","Fievre isolee",0.0373781709186017,374
+"SAU","Moins de 15 ans","Fievre isolee",0.0442519419460666,443
+"SAU","Moins de 15 ans","Fievre isolee",0.0511257129735316,511
+"SAU","Moins de 15 ans","Gastro-enterite",0.039544281926458,395
+"SAU","Moins de 15 ans","Gastro-enterite",0.0541771789782166,542
+"SAU","Moins de 15 ans","Gastro-enterite",0.0688100760299751,688
+"SAU","Moins de 15 ans","Infection respiratoire aigue basse",0.0300136574168031,300
+"SAU","Moins de 15 ans","Infection respiratoire aigue basse",0.0511502620151419,512
+"SAU","Moins de 15 ans","Infection respiratoire aigue basse",0.0722868666134807,723
+"SAU","Moins de 15 ans","Intoxication par ingestion de champignons",0,0
+"SAU","Moins de 15 ans","Malaise",0.00730254631713871,73
+"SAU","Moins de 15 ans","Malaise",0.00839783558849617,84
+"SAU","Moins de 15 ans","Malaise",0.00949312485985363,95
+"SAU","Moins de 15 ans","Meningite",0.000190744403624128,2
+"SAU","Moins de 15 ans","Meningite",0.000354699265885204,4
+"SAU","Moins de 15 ans","Meningite",0.00051865412814628,5
+"SAU","Moins de 15 ans","Pneumopathie",0.00640183751295492,64
+"SAU","Moins de 15 ans","Pneumopathie",0.0100221984761244,100
+"SAU","Moins de 15 ans","Pneumopathie",0.0136425594392938,136
+"SAU","Moins de 15 ans","Syndrome grippal",0.00220912526829638,22
+"SAU","Moins de 15 ans","Syndrome grippal",0.0038198512546719,38
+"SAU","Moins de 15 ans","Syndrome grippal",0.00543057724104742,54
+"SAU","Moins de 15 ans","Toxi-infection alimentaire collective",0.000182013166430678,2
+"SAU","Moins de 15 ans","Toxi-infection alimentaire collective",0.000327493983465966,3
+"SAU","Moins de 15 ans","Toxi-infection alimentaire collective",0.000472974800501255,5
+"SAU","2-14 ans","Asthme",0.0173132718220031,173
+"SAU","2-14 ans","Asthme",0.0244785247699839,245
+"SAU","2-14 ans","Asthme",0.0316437777179646,316
+"SAU","2-14 ans","Bronchiolite",0.00058118705268354,6
+"SAU","2-14 ans","Bronchiolite",0.00109380816207111,11
+"SAU","2-14 ans","Bronchiolite",0.00160642927145869,16
+"SAU","2-14 ans","Bronchite",0.00383524326071324,38
+"SAU","2-14 ans","Bronchite",0.00636477920602945,64
+"SAU","2-14 ans","Bronchite",0.00889431515134566,89
+"SAU","2-14 ans","Fievre isolee",0.0231126606593331,231
+"SAU","2-14 ans","Fievre isolee",0.0290763127066093,291
+"SAU","2-14 ans","Fievre isolee",0.0350399647538855,350
+"SAU","2-14 ans","Gastro-enterite",0.0244353529505941,244
+"SAU","2-14 ans","Gastro-enterite",0.0316495467134838,316
+"SAU","2-14 ans","Gastro-enterite",0.0388637404763734,389
+"SAU","2-14 ans","Infection respiratoire aigue basse",0.014286149944182,143
+"SAU","2-14 ans","Infection respiratoire aigue basse",0.0231493910244439,231
+"SAU","2-14 ans","Infection respiratoire aigue basse",0.0320126321047059,320
+"SAU","2-14 ans","Intoxication par ingestion de champignons",0,0
+"SAU","2-14 ans","Malaise",0.00737039847489457,74
+"SAU","2-14 ans","Malaise",0.00867980825100765,87
+"SAU","2-14 ans","Malaise",0.00998921802712073,100
+"SAU","2-14 ans","Meningite",0.000218671998423424,2
+"SAU","2-14 ans","Meningite",0.000437343996846848,4
+"SAU","2-14 ans","Meningite",0.000656015995270273,7
+"SAU","2-14 ans","Pneumopathie",0.00627415762610969,63
+"SAU","2-14 ans","Pneumopathie",0.00984227840236463,98
+"SAU","2-14 ans","Pneumopathie",0.0134103991786196,134
+"SAU","2-14 ans","Syndrome grippal",0.00207360565244446,21
+"SAU","2-14 ans","Syndrome grippal",0.00373415884722679,37
+"SAU","2-14 ans","Syndrome grippal",0.00539471204200913,54
+"SAU","2-14 ans","Toxi-infection alimentaire collective",0.000171645273241331,2
+"SAU","2-14 ans","Toxi-infection alimentaire collective",0.000343290546482661,3
+"SAU","2-14 ans","Toxi-infection alimentaire collective",0.000514935819723992,5
+"SAU","5-14 ans","Asthme",0.0140693315203956,141
+"SAU","5-14 ans","Asthme",0.0186388569143856,186
+"SAU","5-14 ans","Asthme",0.0232083823083755,232
+"SAU","5-14 ans","Bronchiolite",8.59333708277057e-05,1
+"SAU","5-14 ans","Bronchiolite",0.000171866741655411,2
+"SAU","5-14 ans","Bronchiolite",0.000257800112483117,3
+"SAU","5-14 ans","Bronchite",0.00210603329502294,21
+"SAU","5-14 ans","Bronchite",0.00340471973365271,34
+"SAU","5-14 ans","Bronchite",0.00470340617228248,47
+"SAU","5-14 ans","Fievre isolee",0.0126326896970811,126
+"SAU","5-14 ans","Fievre isolee",0.0164412464165304,164
+"SAU","5-14 ans","Fievre isolee",0.0202498031359797,202
+"SAU","5-14 ans","Gastro-enterite",0.0153125871604952,153
+"SAU","5-14 ans","Gastro-enterite",0.0199106300510997,199
+"SAU","5-14 ans","Gastro-enterite",0.0245086729417042,245
+"SAU","5-14 ans","Infection respiratoire aigue basse",0.00856383248842264,86
+"SAU","5-14 ans","Infection respiratoire aigue basse",0.0132616089487718,133
+"SAU","5-14 ans","Infection respiratoire aigue basse",0.0179593854091209,180
+"SAU","5-14 ans","Intoxication par ingestion de champignons",0,0
+"SAU","5-14 ans","Malaise",0.00956116751465634,96
+"SAU","5-14 ans","Malaise",0.0113825315681421,114
+"SAU","5-14 ans","Malaise",0.0132038956216279,132
+"SAU","5-14 ans","Meningite",0.000237288352248907,2
+"SAU","5-14 ans","Meningite",0.000474576704497813,5
+"SAU","5-14 ans","Meningite",0.00071186505674672,7
+"SAU","5-14 ans","Pneumopathie",0.00398737775579086,40
+"SAU","5-14 ans","Pneumopathie",0.00607146639006861,61
+"SAU","5-14 ans","Pneumopathie",0.00815555502434635,82
+"SAU","5-14 ans","Syndrome grippal",0.00141739827412157,14
+"SAU","5-14 ans","Syndrome grippal",0.00263031847851612,26
+"SAU","5-14 ans","Syndrome grippal",0.00384323868291066,38
+"SAU","5-14 ans","Toxi-infection alimentaire collective",0.00017935470605439,2
+"SAU","5-14 ans","Toxi-infection alimentaire collective",0.000358709412108781,4
+"SAU","5-14 ans","Toxi-infection alimentaire collective",0.000538064118163171,5
+"SAU","15 ans ou plus","Asthme",0.00414290728336906,41
+"SAU","15 ans ou plus","Asthme",0.00488900033629744,49
+"SAU","15 ans ou plus","Asthme",0.00563509338922582,56
+"SAU","15 ans ou plus","Bronchiolite",5.91140497477431e-05,1
+"SAU","15 ans ou plus","Bronchiolite",0.000106391398620754,1
+"SAU","15 ans ou plus","Bronchiolite",0.000153668747493765,2
+"SAU","15 ans ou plus","Bronchite",0.00395843653167135,40
+"SAU","15 ans ou plus","Bronchite",0.00557468913508528,56
+"SAU","15 ans ou plus","Bronchite",0.0071909417384992,72
+"SAU","15 ans ou plus","Fievre isolee",0.00495081769362275,50
+"SAU","15 ans ou plus","Fievre isolee",0.00560033450600336,56
+"SAU","15 ans ou plus","Fievre isolee",0.00624985131838398,62
+"SAU","15 ans ou plus","Gastro-enterite",0.00482599524060134,48
+"SAU","15 ans ou plus","Gastro-enterite",0.00590179914491002,59
+"SAU","15 ans ou plus","Gastro-enterite",0.00697760304921869,70
+"SAU","15 ans ou plus","Infection respiratoire aigue basse",0.0194451204021434,194
+"SAU","15 ans ou plus","Infection respiratoire aigue basse",0.0243065175639074,243
+"SAU","15 ans ou plus","Infection respiratoire aigue basse",0.0291679147256713,292
+"SAU","15 ans ou plus","Intoxication par ingestion de champignons",0,0
+"SAU","15 ans ou plus","Malaise",0.037642488589218,376
+"SAU","15 ans ou plus","Malaise",0.0402089286767276,402
+"SAU","15 ans ou plus","Malaise",0.0427753687642372,428
+"SAU","15 ans ou plus","Meningite",7.95780643855912e-05,1
+"SAU","15 ans ou plus","Meningite",0.000132178318020525,1
+"SAU","15 ans ou plus","Meningite",0.000184778571655458,2
+"SAU","15 ans ou plus","Pneumopathie",0.0143125504830315,143
+"SAU","15 ans ou plus","Pneumopathie",0.0171313923215158,171
+"SAU","15 ans ou plus","Pneumopathie",0.01995023416,200
+"SAU","15 ans ou plus","Syndrome grippal",0.000952329240258036,10
+"SAU","15 ans ou plus","Syndrome grippal",0.00164643039469045,16
+"SAU","15 ans ou plus","Syndrome grippal",0.00234053154912286,23
+"SAU","15 ans ou plus","Toxi-infection alimentaire collective",0.000210598185133358,2
+"SAU","15 ans ou plus","Toxi-infection alimentaire collective",0.000324569843869557,3
+"SAU","15 ans ou plus","Toxi-infection alimentaire collective",0.000438541502605755,4
+"SAU","15-64 ans","Asthme",0.00466700010861774,47
+"SAU","15-64 ans","Asthme",0.00556926281101898,56
+"SAU","15-64 ans","Asthme",0.00647152551342022,65
+"SAU","15-64 ans","Bronchiolite",3.82415027738851e-05,0
+"SAU","15-64 ans","Bronchiolite",7.64830055477703e-05,1
+"SAU","15-64 ans","Bronchiolite",0.000114724508321655,1
+"SAU","15-64 ans","Bronchite",0.00277297542454624,28
+"SAU","15-64 ans","Bronchite",0.00393862671479161,39
+"SAU","15-64 ans","Bronchite",0.00510427800503699,51
+"SAU","15-64 ans","Fievre isolee",0.00360824696472738,36
+"SAU","15-64 ans","Fievre isolee",0.00425063288319996,43
+"SAU","15-64 ans","Fievre isolee",0.00489301880167253,49
+"SAU","15-64 ans","Gastro-enterite",0.00512525723984548,51
+"SAU","15-64 ans","Gastro-enterite",0.00634715624562407,63
+"SAU","15-64 ans","Gastro-enterite",0.00756905525140265,76
+"SAU","15-64 ans","Infection respiratoire aigue basse",0.00991244656250757,99
+"SAU","15-64 ans","Infection respiratoire aigue basse",0.0130666121158788,131
+"SAU","15-64 ans","Infection respiratoire aigue basse",0.01622077766925,162
+"SAU","15-64 ans","Intoxication par ingestion de champignons",0,0
+"SAU","15-64 ans","Malaise",0.0255671997167099,256
+"SAU","15-64 ans","Malaise",0.0281107872935125,281
+"SAU","15-64 ans","Malaise",0.0306543748703152,307
+"SAU","15-64 ans","Meningite",0.000101223431314893,1
+"SAU","15-64 ans","Meningite",0.000166917835414552,2
+"SAU","15-64 ans","Meningite",0.00023261223951421,2
+"SAU","15-64 ans","Pneumopathie",0.00563601322431924,56
+"SAU","15-64 ans","Pneumopathie",0.0069525811971228,70
+"SAU","15-64 ans","Pneumopathie",0.00826914916992636,83
+"SAU","15-64 ans","Syndrome grippal",0.00112803164198391,11
+"SAU","15-64 ans","Syndrome grippal",0.00198326574520785,20
+"SAU","15-64 ans","Syndrome grippal",0.00283849984843178,28
+"SAU","15-64 ans","Toxi-infection alimentaire collective",0.000248049486080777,2
+"SAU","15-64 ans","Toxi-infection alimentaire collective",0.000385193827747213,4
+"SAU","15-64 ans","Toxi-infection alimentaire collective",0.000522338169413649,5
+"SAU","15-74 ans","Asthme",0.00452783977209088,45
+"SAU","15-74 ans","Asthme",0.00537290835001586,54
+"SAU","15-74 ans","Asthme",0.00621797692794084,62
+"SAU","15-74 ans","Bronchiolite",4.87558460133267e-05,0
+"SAU","15-74 ans","Bronchiolite",8.59512656781296e-05,1
+"SAU","15-74 ans","Bronchiolite",0.000123146685342933,1
+"SAU","15-74 ans","Bronchite",0.00307514304464576,31
+"SAU","15-74 ans","Bronchite",0.00434929173748037,43
+"SAU","15-74 ans","Bronchite",0.00562344043031499,56
+"SAU","15-74 ans","Fievre isolee",0.00427464855053839,43
+"SAU","15-74 ans","Fievre isolee",0.00488218422187468,49
+"SAU","15-74 ans","Fievre isolee",0.00548971989321097,55
+"SAU","15-74 ans","Gastro-enterite",0.00502137327806966,50
+"SAU","15-74 ans","Gastro-enterite",0.00619306736273877,62
+"SAU","15-74 ans","Gastro-enterite",0.00736476144740788,74
+"SAU","15-74 ans","Infection respiratoire aigue basse",0.0120905687203442,121
+"SAU","15-74 ans","Infection respiratoire aigue basse",0.0156412111715369,156
+"SAU","15-74 ans","Infection respiratoire aigue basse",0.0191918536227297,192
+"SAU","15-74 ans","Intoxication par ingestion de champignons",0,0
+"SAU","15-74 ans","Malaise",0.0283979231246131,284
+"SAU","15-74 ans","Malaise",0.0309270957363191,309
+"SAU","15-74 ans","Malaise",0.0334562683480251,335
+"SAU","15-74 ans","Meningite",9.37690490845036e-05,1
+"SAU","15-74 ans","Meningite",0.000155158348464472,2
+"SAU","15-74 ans","Meningite",0.000216547647844441,2
+"SAU","15-74 ans","Pneumopathie",0.00773569849915303,77
+"SAU","15-74 ans","Pneumopathie",0.0093112501743928,93
+"SAU","15-74 ans","Pneumopathie",0.0108868018496326,109
+"SAU","15-74 ans","Syndrome grippal",0.00109784489540554,11
+"SAU","15-74 ans","Syndrome grippal",0.0018899133967487,19
+"SAU","15-74 ans","Syndrome grippal",0.00268198189809186,27
+"SAU","15-74 ans","Toxi-infection alimentaire collective",0.000231956831447432,2
+"SAU","15-74 ans","Toxi-infection alimentaire collective",0.000362521696035553,4
+"SAU","15-74 ans","Toxi-infection alimentaire collective",0.000493086560623674,5
+"SAU","65 ans ou plus","Asthme",0.00206794005044343,21
+"SAU","65 ans ou plus","Asthme",0.00280274426915822,28
+"SAU","65 ans ou plus","Asthme",0.00353754848787302,35
+"SAU","65 ans ou plus","Bronchiolite",9.59718145672053e-05,1
+"SAU","65 ans ou plus","Bronchiolite",0.000191943629134411,2
+"SAU","65 ans ou plus","Bronchiolite",0.000287915443701616,3
+"SAU","65 ans ou plus","Bronchite",0.00727911772536394,73
+"SAU","65 ans ou plus","Bronchite",0.0102686761819155,103
+"SAU","65 ans ou plus","Bronchite",0.013258234638467,133
+"SAU","65 ans ou plus","Fievre isolee",0.00801083141968411,80
+"SAU","65 ans ou plus","Fievre isolee",0.00936419267802952,94
+"SAU","65 ans ou plus","Fievre isolee",0.0107175539363749,107
+"SAU","65 ans ou plus","Gastro-enterite",0.00336749102618817,34
+"SAU","65 ans ou plus","Gastro-enterite",0.00429607906098716,43
+"SAU","65 ans ou plus","Gastro-enterite",0.00522466709578616,52
+"SAU","65 ans ou plus","Infection respiratoire aigue basse",0.0464002053984126,464
+"SAU","65 ans ou plus","Infection respiratoire aigue basse",0.056639767137368,566
+"SAU","65 ans ou plus","Infection respiratoire aigue basse",0.0668793288763235,669
+"SAU","65 ans ou plus","Intoxication par ingestion de champignons",0,0
+"SAU","65 ans ou plus","Malaise",0.0714678357258196,715
+"SAU","65 ans ou plus","Malaise",0.0757378454989494,757
+"SAU","65 ans ou plus","Malaise",0.0800078552720793,800
+"SAU","65 ans ou plus","Meningite",2.52257275264864e-05,0
+"SAU","65 ans ou plus","Meningite",5.04514550529728e-05,1
+"SAU","65 ans ou plus","Meningite",7.56771825794591e-05,1
+"SAU","65 ans ou plus","Pneumopathie",0.0383991791172382,384
+"SAU","65 ans ou plus","Pneumopathie",0.0453837990553231,454
+"SAU","65 ans ou plus","Pneumopathie",0.052368418993408,524
+"SAU","65 ans ou plus","Syndrome grippal",0.00021169508596488,2
+"SAU","65 ans ou plus","Syndrome grippal",0.000423390171929761,4
+"SAU","65 ans ou plus","Syndrome grippal",0.000635085257894641,6
+"SAU","65 ans ou plus","Toxi-infection alimentaire collective",7.79629827353554e-05,1
+"SAU","65 ans ou plus","Toxi-infection alimentaire collective",0.000155925965470711,2
+"SAU","65 ans ou plus","Toxi-infection alimentaire collective",0.000233888948206066,2
+"SAU","65-74 ans","Asthme",0.00250524028283458,25
+"SAU","65-74 ans","Asthme",0.00359002602021462,36
+"SAU","65-74 ans","Asthme",0.00467481175759465,47
+"SAU","65-74 ans","Bronchiolite",8.68225033562519e-05,1
+"SAU","65-74 ans","Bronchiolite",0.000173645006712504,2
+"SAU","65-74 ans","Bronchiolite",0.000260467510068756,3
+"SAU","65-74 ans","Bronchite",0.00516874942915972,52
+"SAU","65-74 ans","Bronchite",0.00776482070035701,78
+"SAU","65-74 ans","Bronchite",0.0103608919715543,104
+"SAU","65-74 ans","Fievre isolee",0.00813283514355853,81
+"SAU","65-74 ans","Fievre isolee",0.0098715606184482,99
+"SAU","65-74 ans","Fievre isolee",0.0116102860933379,116
+"SAU","65-74 ans","Gastro-enterite",0.00337747305018416,34
+"SAU","65-74 ans","Gastro-enterite",0.00442170426671475,44
+"SAU","65-74 ans","Gastro-enterite",0.00546593548324533,55
+"SAU","65-74 ans","Infection respiratoire aigue basse",0.0301404218496399,301
+"SAU","65-74 ans","Infection respiratoire aigue basse",0.0379777331764473,380
+"SAU","65-74 ans","Infection respiratoire aigue basse",0.0458150445032547,458
+"SAU","65-74 ans","Intoxication par ingestion de champignons",0,0
+"SAU","65-74 ans","Malaise",0.0529012327697046,529
+"SAU","65-74 ans","Malaise",0.0576886336400049,577
+"SAU","65-74 ans","Malaise",0.0624760345103052,625
+"SAU","65-74 ans","Meningite",4.33859362764009e-05,0
+"SAU","65-74 ans","Meningite",8.67718725528018e-05,1
+"SAU","65-74 ans","Meningite",0.000130157808829203,1
+"SAU","65-74 ans","Pneumopathie",0.023944236128772,239
+"SAU","65-74 ans","Pneumopathie",0.0295562419464918,296
+"SAU","65-74 ans","Pneumopathie",0.0351682477642115,352
+"SAU","65-74 ans","Syndrome grippal",0.000367399672076402,4
+"SAU","65-74 ans","Syndrome grippal",0.000734799344152804,7
+"SAU","65-74 ans","Syndrome grippal",0.00110219901622921,11
+"SAU","65-74 ans","Toxi-infection alimentaire collective",0.000135161831186173,1
+"SAU","65-74 ans","Toxi-infection alimentaire collective",0.000270323662372345,3
+"SAU","65-74 ans","Toxi-infection alimentaire collective",0.000405485493558518,4
+"SAU","75 ans ou plus","Asthme",0.0016256708714872,16
+"SAU","75 ans ou plus","Asthme",0.00238209147133368,24
+"SAU","75 ans ou plus","Asthme",0.00313851207118017,31
+"SAU","75 ans ou plus","Bronchiolite",0.000104519265517941,1
+"SAU","75 ans ou plus","Bronchiolite",0.000209038531035882,2
+"SAU","75 ans ou plus","Bronchiolite",0.000313557796553824,3
+"SAU","75 ans ou plus","Bronchite",0.00790043860341646,79
+"SAU","75 ans ou plus","Bronchite",0.0111463686806196,111
+"SAU","75 ans ou plus","Bronchite",0.0143922987578227,144
+"SAU","75 ans ou plus","Fievre isolee",0.00715317260331025,72
+"SAU","75 ans ou plus","Fievre isolee",0.00888279148761224,89
+"SAU","75 ans ou plus","Fievre isolee",0.0106124103719142,106
+"SAU","75 ans ou plus","Gastro-enterite",0.0032598815893944,33
+"SAU","75 ans ou plus","Gastro-enterite",0.00423388561610575,42
+"SAU","75 ans ou plus","Gastro-enterite",0.00520788964281709,52
+"SAU","75 ans ou plus","Infection respiratoire aigue basse",0.0534968981939409,535
+"SAU","75 ans ou plus","Infection respiratoire aigue basse",0.0645454081227604,645
+"SAU","75 ans ou plus","Infection respiratoire aigue basse",0.0755939180515799,756
+"SAU","75 ans ou plus","Intoxication par ingestion de champignons",0,0
+"SAU","75 ans ou plus","Malaise",0.0776884030221367,777
+"SAU","75 ans ou plus","Malaise",0.0830522797565765,831
+"SAU","75 ans ou plus","Malaise",0.0884161564910163,884
+"SAU","75 ans ou plus","Meningite",2.23248039806216e-05,0
+"SAU","75 ans ou plus","Meningite",4.46496079612432e-05,0
+"SAU","75 ans ou plus","Meningite",6.69744119418648e-05,1
+"SAU","75 ans ou plus","Pneumopathie",0.0448232126831055,448
+"SAU","75 ans ou plus","Pneumopathie",0.0524859762535706,525
+"SAU","75 ans ou plus","Pneumopathie",0.0601487398240357,601
+"SAU","75 ans ou plus","Syndrome grippal",0.000161150513513309,2
+"SAU","75 ans ou plus","Syndrome grippal",0.000322301027026618,3
+"SAU","75 ans ou plus","Syndrome grippal",0.000483451540539926,5
+"SAU","75 ans ou plus","Toxi-infection alimentaire collective",5.90215071643152e-05,1
+"SAU","75 ans ou plus","Toxi-infection alimentaire collective",0.00011804301432863,1
+"SAU","75 ans ou plus","Toxi-infection alimentaire collective",0.000177064521492946,2
+"SAU","85 ans ou plus","Asthme",0.00133291741218055,13
+"SAU","85 ans ou plus","Asthme",0.00198760597056787,20
+"SAU","85 ans ou plus","Asthme",0.00264229452895518,26
+"SAU","85 ans ou plus","Bronchiolite",0.000128018027959782,1
+"SAU","85 ans ou plus","Bronchiolite",0.000256036055919565,3
+"SAU","85 ans ou plus","Bronchiolite",0.000384054083879348,4
+"SAU","85 ans ou plus","Bronchite",0.00822554142743484,82
+"SAU","85 ans ou plus","Bronchite",0.0120897836467898,121
+"SAU","85 ans ou plus","Bronchite",0.0159540258661448,160
+"SAU","85 ans ou plus","Fievre isolee",0.00574741497286724,57
+"SAU","85 ans ou plus","Fievre isolee",0.00762832607923061,76
+"SAU","85 ans ou plus","Fievre isolee",0.00950923718559398,95
+"SAU","85 ans ou plus","Gastro-enterite",0.00302599611226515,30
+"SAU","85 ans ou plus","Gastro-enterite",0.00407668358255499,41
+"SAU","85 ans ou plus","Gastro-enterite",0.00512737105284483,51
+"SAU","85 ans ou plus","Infection respiratoire aigue basse",0.0591821026805196,592
+"SAU","85 ans ou plus","Infection respiratoire aigue basse",0.0726694057020451,727
+"SAU","85 ans ou plus","Infection respiratoire aigue basse",0.0861567087235706,862
+"SAU","85 ans ou plus","Intoxication par ingestion de champignons",0,0
+"SAU","85 ans ou plus","Malaise",0.0808646704572549,809
+"SAU","85 ans ou plus","Malaise",0.0867083853403271,867
+"SAU","85 ans ou plus","Malaise",0.0925521002233993,926
+"SAU","85 ans ou plus","Meningite",4.36128919708703e-06,0
+"SAU","85 ans ou plus","Meningite",8.72257839417406e-06,0
+"SAU","85 ans ou plus","Meningite",1.30838675912611e-05,0
+"SAU","85 ans ou plus","Pneumopathie",0.0501320595668492,501
+"SAU","85 ans ou plus","Pneumopathie",0.0601959179401776,602
+"SAU","85 ans ou plus","Pneumopathie",0.070259776313506,703
+"SAU","85 ans ou plus","Syndrome grippal",0.000116509436000568,1
+"SAU","85 ans ou plus","Syndrome grippal",0.000233018872001136,2
+"SAU","85 ans ou plus","Syndrome grippal",0.000349528308001703,3
+"SAU","85 ans ou plus","Toxi-infection alimentaire collective",5.59697679699143e-05,1
+"SAU","85 ans ou plus","Toxi-infection alimentaire collective",0.000111939535939829,1
+"SAU","85 ans ou plus","Toxi-infection alimentaire collective",0.000167909303909743,2
+"SOS","Tous ages","Asthme",0.00911578816996445,91
+"SOS","Tous ages","Asthme",0.0124763210114404,125
+"SOS","Tous ages","Asthme",0.0158368538529163,158
+"SOS","Tous ages","Bronchiolite",0.00267886595494102,27
+"SOS","Tous ages","Bronchiolite",0.00485084671937768,49
+"SOS","Tous ages","Bronchiolite",0.00702282748381435,70
+"SOS","Tous ages","Bronchite",0.0321900336613839,322
+"SOS","Tous ages","Bronchite",0.0449678937550982,450
+"SOS","Tous ages","Bronchite",0.0577457538488126,577
+"SOS","Tous ages","Fievre isolee",0.0196062501544791,196
+"SOS","Tous ages","Fievre isolee",0.0251572879050757,252
+"SOS","Tous ages","Fievre isolee",0.0307083256556723,307
+"SOS","Tous ages","Gastro-enterite",0.0616693444644547,617
+"SOS","Tous ages","Gastro-enterite",0.0799602071757707,800
+"SOS","Tous ages","Gastro-enterite",0.0982510698870867,983
+"SOS","Tous ages","Infection respiratoire aigue basse",0.059578593378985,596
+"SOS","Tous ages","Infection respiratoire aigue basse",0.0867389264248423,867
+"SOS","Tous ages","Infection respiratoire aigue basse",0.1138992594707,1139
+"SOS","Tous ages","Malaise",0.00617916873458452,62
+"SOS","Tous ages","Malaise",0.00752094934361754,75
+"SOS","Tous ages","Malaise",0.00886272995265057,89
+"SOS","Tous ages","Meningite",0.000266024588200383,3
+"SOS","Tous ages","Meningite",0.000398470949651726,4
+"SOS","Tous ages","Meningite",0.00053091731110307,5
+"SOS","Tous ages","Pneumopathie",0.00722637935911224,72
+"SOS","Tous ages","Pneumopathie",0.00900456314197302,90
+"SOS","Tous ages","Pneumopathie",0.0107827469248338,108
+"SOS","Tous ages","Syndrome grippal",0.0119124284648776,119
+"SOS","Tous ages","Syndrome grippal",0.0217444131017385,217
+"SOS","Tous ages","Syndrome grippal",0.0315763977385994,316
+"SOS","Tous ages","Toxi-infection alimentaire collective",5.83216017369758e-05,1
+"SOS","Tous ages","Toxi-infection alimentaire collective",0.000116643203473952,1
+"SOS","Tous ages","Toxi-infection alimentaire collective",0.000174964805210927,2
+"SOS","Moins de 2 ans","Asthme",0.00727369937654086,73
+"SOS","Moins de 2 ans","Asthme",0.0109110351167181,109
+"SOS","Moins de 2 ans","Asthme",0.0145483708568953,145
+"SOS","Moins de 2 ans","Bronchiolite",0.0260877298853136,261
+"SOS","Moins de 2 ans","Bronchiolite",0.0449650046106452,450
+"SOS","Moins de 2 ans","Bronchiolite",0.0638422793359768,638
+"SOS","Moins de 2 ans","Bronchite",0.0285384971853004,285
+"SOS","Moins de 2 ans","Bronchite",0.0412319239480656,412
+"SOS","Moins de 2 ans","Bronchite",0.0539253507108308,539
+"SOS","Moins de 2 ans","Fievre isolee",0.0474319804000919,474
+"SOS","Moins de 2 ans","Fievre isolee",0.0683357024380155,683
+"SOS","Moins de 2 ans","Fievre isolee",0.089239424475939,892
+"SOS","Moins de 2 ans","Gastro-enterite",0.0618745549264239,619
+"SOS","Moins de 2 ans","Gastro-enterite",0.0911104940447471,911
+"SOS","Moins de 2 ans","Gastro-enterite",0.12034643316307,1203
+"SOS","Moins de 2 ans","Infection respiratoire aigue basse",0.069049512912777,690
+"SOS","Moins de 2 ans","Infection respiratoire aigue basse",0.107072772842261,1071
+"SOS","Moins de 2 ans","Infection respiratoire aigue basse",0.145096032771744,1451
+"SOS","Moins de 2 ans","Malaise",0.000126783761309837,1
+"SOS","Moins de 2 ans","Malaise",0.000253567522619674,3
+"SOS","Moins de 2 ans","Malaise",0.00038035128392951,4
+"SOS","Moins de 2 ans","Meningite",8.51743353427045e-05,1
+"SOS","Moins de 2 ans","Meningite",0.000170348670685409,2
+"SOS","Moins de 2 ans","Meningite",0.000255523006028114,3
+"SOS","Moins de 2 ans","Pneumopathie",0.00173110585270299,17
+"SOS","Moins de 2 ans","Pneumopathie",0.00346221170540598,35
+"SOS","Moins de 2 ans","Pneumopathie",0.00519331755810896,52
+"SOS","Moins de 2 ans","Syndrome grippal",0.00322753442481608,32
+"SOS","Moins de 2 ans","Syndrome grippal",0.00645506884963215,65
+"SOS","Moins de 2 ans","Syndrome grippal",0.00968260327444823,97
+"SOS","Moins de 2 ans","Toxi-infection alimentaire collective",0,0
+"SOS","Moins de 5 ans","Asthme",0.00983168811952404,98
+"SOS","Moins de 5 ans","Asthme",0.0149944458485557,150
+"SOS","Moins de 5 ans","Asthme",0.0201572035775874,202
+"SOS","Moins de 5 ans","Bronchiolite",0.0130586451214072,131
+"SOS","Moins de 5 ans","Bronchiolite",0.022062322907829,221
+"SOS","Moins de 5 ans","Bronchiolite",0.0310660006942508,311
+"SOS","Moins de 5 ans","Bronchite",0.0342886042883319,343
+"SOS","Moins de 5 ans","Bronchite",0.050091293083706,501
+"SOS","Moins de 5 ans","Bronchite",0.0658939818790801,659
+"SOS","Moins de 5 ans","Fievre isolee",0.0439316591846854,439
+"SOS","Moins de 5 ans","Fievre isolee",0.0625756791643009,626
+"SOS","Moins de 5 ans","Fievre isolee",0.0812196991439165,812
+"SOS","Moins de 5 ans","Gastro-enterite",0.0612051755667047,612
+"SOS","Moins de 5 ans","Gastro-enterite",0.0852859213709429,853
+"SOS","Moins de 5 ans","Gastro-enterite",0.109366667175181,1094
+"SOS","Moins de 5 ans","Infection respiratoire aigue basse",0.0671646156974896,672
+"SOS","Moins de 5 ans","Infection respiratoire aigue basse",0.103031521471315,1030
+"SOS","Moins de 5 ans","Infection respiratoire aigue basse",0.138898427245141,1389
+"SOS","Moins de 5 ans","Malaise",0.000109743418728829,1
+"SOS","Moins de 5 ans","Malaise",0.000219486837457658,2
+"SOS","Moins de 5 ans","Malaise",0.000329230256186487,3
+"SOS","Moins de 5 ans","Meningite",0.000150048796274086,2
+"SOS","Moins de 5 ans","Meningite",0.000300097592548171,3
+"SOS","Moins de 5 ans","Meningite",0.000450146388822257,5
+"SOS","Moins de 5 ans","Pneumopathie",0.0030336541411533,30
+"SOS","Moins de 5 ans","Pneumopathie",0.00522307020716941,52
+"SOS","Moins de 5 ans","Pneumopathie",0.00741248627318552,74
+"SOS","Moins de 5 ans","Syndrome grippal",0.00522101700968402,52
+"SOS","Moins de 5 ans","Syndrome grippal",0.00989167628684189,99
+"SOS","Moins de 5 ans","Syndrome grippal",0.0145623355639998,146
+"SOS","Moins de 5 ans","Toxi-infection alimentaire collective",0,0
+"SOS","Moins de 15 ans","Asthme",0.0118177177970198,118
+"SOS","Moins de 15 ans","Asthme",0.0175192276429692,175
+"SOS","Moins de 15 ans","Asthme",0.0232207374889186,232
+"SOS","Moins de 15 ans","Bronchiolite",0.00802003160799241,80
+"SOS","Moins de 15 ans","Bronchiolite",0.0137173415326947,137
+"SOS","Moins de 15 ans","Bronchiolite",0.0194146514573971,194
+"SOS","Moins de 15 ans","Bronchite",0.0327314666825604,327
+"SOS","Moins de 15 ans","Bronchite",0.047914675656422,479
+"SOS","Moins de 15 ans","Bronchite",0.0630978846302835,631
+"SOS","Moins de 15 ans","Fievre isolee",0.0390674368539829,391
+"SOS","Moins de 15 ans","Fievre isolee",0.0541277979382652,541
+"SOS","Moins de 15 ans","Fievre isolee",0.0691881590225475,692
+"SOS","Moins de 15 ans","Gastro-enterite",0.0666873702680022,667
+"SOS","Moins de 15 ans","Gastro-enterite",0.0885124918390574,885
+"SOS","Moins de 15 ans","Gastro-enterite",0.110337613410112,1103
+"SOS","Moins de 15 ans","Infection respiratoire aigue basse",0.0616698072167095,617
+"SOS","Moins de 15 ans","Infection respiratoire aigue basse",0.0947554250631645,948
+"SOS","Moins de 15 ans","Infection respiratoire aigue basse",0.127841042909619,1278
+"SOS","Moins de 15 ans","Malaise",0.000624596973498907,6
+"SOS","Moins de 15 ans","Malaise",0.000952765904905032,10
+"SOS","Moins de 15 ans","Malaise",0.00128093483631116,13
+"SOS","Moins de 15 ans","Meningite",0.000240223006793612,2
+"SOS","Moins de 15 ans","Meningite",0.000480446013587224,5
+"SOS","Moins de 15 ans","Meningite",0.000720669020380836,7
+"SOS","Moins de 15 ans","Pneumopathie",0.00335954649775697,34
+"SOS","Moins de 15 ans","Pneumopathie",0.00526841601292207,53
+"SOS","Moins de 15 ans","Pneumopathie",0.00717728552808716,72
+"SOS","Moins de 15 ans","Syndrome grippal",0.00790557413398391,79
+"SOS","Moins de 15 ans","Syndrome grippal",0.0150713665035883,151
+"SOS","Moins de 15 ans","Syndrome grippal",0.0222371588731927,222
+"SOS","Moins de 15 ans","Toxi-infection alimentaire collective",3.6412639796003e-05,0
+"SOS","Moins de 15 ans","Toxi-infection alimentaire collective",7.28252795920059e-05,1
+"SOS","Moins de 15 ans","Toxi-infection alimentaire collective",0.000109237919388009,1
+"SOS","2-14 ans","Asthme",0.01251877153713,125
+"SOS","2-14 ans","Asthme",0.0196672773874314,197
+"SOS","2-14 ans","Asthme",0.0268157832377327,268
+"SOS","2-14 ans","Bronchiolite",0.0014912651350166,15
+"SOS","2-14 ans","Bronchiolite",0.0029825302700332,30
+"SOS","2-14 ans","Bronchiolite",0.00447379540504979,45
+"SOS","2-14 ans","Bronchite",0.0337511636323131,338
+"SOS","2-14 ans","Bronchite",0.0501182213043612,501
+"SOS","2-14 ans","Bronchite",0.0664852789764094,665
+"SOS","2-14 ans","Fievre isolee",0.0349986552190112,350
+"SOS","2-14 ans","Fievre isolee",0.0484372994520296,484
+"SOS","2-14 ans","Fievre isolee",0.061875943685048,619
+"SOS","2-14 ans","Gastro-enterite",0.0671797170415616,672
+"SOS","2-14 ans","Gastro-enterite",0.0884307665191932,884
+"SOS","2-14 ans","Gastro-enterite",0.109681815996825,1097
+"SOS","2-14 ans","Infection respiratoire aigue basse",0.0573281385870628,573
+"SOS","2-14 ans","Infection respiratoire aigue basse",0.0871314427370395,871
+"SOS","2-14 ans","Infection respiratoire aigue basse",0.116934746887016,1169
+"SOS","2-14 ans","Malaise",0.00076612918479587,8
+"SOS","2-14 ans","Malaise",0.00122179578033375,12
+"SOS","2-14 ans","Malaise",0.00167746237587162,17
+"SOS","2-14 ans","Meningite",0.000313057781577173,3
+"SOS","2-14 ans","Meningite",0.000626115563154346,6
+"SOS","2-14 ans","Meningite",0.00093917334473152,9
+"SOS","2-14 ans","Pneumopathie",0.00398694714358393,40
+"SOS","2-14 ans","Pneumopathie",0.00601949689303106,60
+"SOS","2-14 ans","Pneumopathie",0.00805204664247819,81
+"SOS","2-14 ans","Syndrome grippal",0.00990423298039403,99
+"SOS","2-14 ans","Syndrome grippal",0.0190350707558383,190
+"SOS","2-14 ans","Syndrome grippal",0.0281659085312826,282
+"SOS","2-14 ans","Toxi-infection alimentaire collective",4.27017183197199e-05,0
+"SOS","2-14 ans","Toxi-infection alimentaire collective",8.54034366394398e-05,1
+"SOS","2-14 ans","Toxi-infection alimentaire collective",0.00012810515495916,1
+"SOS","5-14 ans","Asthme",0.0134596529781419,135
+"SOS","5-14 ans","Asthme",0.020416054330471,204
+"SOS","5-14 ans","Asthme",0.0273724556828,274
+"SOS","5-14 ans","Bronchiolite",0.000328149543606989,3
+"SOS","5-14 ans","Bronchiolite",0.000656299087213978,7
+"SOS","5-14 ans","Bronchiolite",0.000984448630820968,10
+"SOS","5-14 ans","Bronchite",0.02945547353795,295
+"SOS","5-14 ans","Bronchite",0.0442847282243291,443
+"SOS","5-14 ans","Bronchite",0.0591139829107082,591
+"SOS","5-14 ans","Fievre isolee",0.028630876951027,286
+"SOS","5-14 ans","Fievre isolee",0.0393858338179319,394
+"SOS","5-14 ans","Fievre isolee",0.0501407906848369,501
+"SOS","5-14 ans","Gastro-enterite",0.0732991529867231,733
+"SOS","5-14 ans","Gastro-enterite",0.0968781874354153,969
+"SOS","5-14 ans","Gastro-enterite",0.120457221884107,1205
+"SOS","5-14 ans","Infection respiratoire aigue basse",0.0515867053088693,516
+"SOS","5-14 ans","Infection respiratoire aigue basse",0.0788997806067052,789
+"SOS","5-14 ans","Infection respiratoire aigue basse",0.106212855904541,1062
+"SOS","5-14 ans","Malaise",0.00134000516889009,13
+"SOS","5-14 ans","Malaise",0.00213829852846273,21
+"SOS","5-14 ans","Malaise",0.00293659188803537,29
+"SOS","5-14 ans","Meningite",0.000453361956279159,5
+"SOS","5-14 ans","Meningite",0.000906723912558318,9
+"SOS","5-14 ans","Meningite",0.00136008586883748,14
+"SOS","5-14 ans","Pneumopathie",0.00330413789655304,33
+"SOS","5-14 ans","Pneumopathie",0.00513085916161599,51
+"SOS","5-14 ans","Pneumopathie",0.00695758042667895,70
+"SOS","5-14 ans","Syndrome grippal",0.0106639651778683,107
+"SOS","5-14 ans","Syndrome grippal",0.0213279303557365,213
+"SOS","5-14 ans","Syndrome grippal",0.0319918955336048,320
+"SOS","5-14 ans","Toxi-infection alimentaire collective",6.37802578233888e-05,1
+"SOS","5-14 ans","Toxi-infection alimentaire collective",0.000127560515646778,1
+"SOS","5-14 ans","Toxi-infection alimentaire collective",0.000191340773470166,2
+"SOS","15 ans ou plus","Asthme",0.00767523242246883,77
+"SOS","15 ans ou plus","Asthme",0.00990612752287107,99
+"SOS","15 ans ou plus","Asthme",0.0121370226232733,121
+"SOS","15 ans ou plus","Bronchiolite",9.5096995517039e-05,1
+"SOS","15 ans ou plus","Bronchiolite",0.000190193991034078,2
+"SOS","15 ans ou plus","Bronchiolite",0.000285290986551117,3
+"SOS","15 ans ou plus","Bronchite",0.0302742039974929,303
+"SOS","15 ans ou plus","Bronchite",0.042397552371128,424
+"SOS","15 ans ou plus","Bronchite",0.0545209007447632,545
+"SOS","15 ans ou plus","Fievre isolee",0.0108515306015404,109
+"SOS","15 ans ou plus","Fievre isolee",0.0138976275492668,139
+"SOS","15 ans ou plus","Fievre isolee",0.0169437244969933,169
+"SOS","15 ans ou plus","Gastro-enterite",0.0599015933568442,599
+"SOS","15 ans ou plus","Gastro-enterite",0.0771725832950023,772
+"SOS","15 ans ou plus","Gastro-enterite",0.0944435732331604,944
+"SOS","15 ans ou plus","Infection respiratoire aigue basse",0.0580078565748231,580
+"SOS","15 ans ou plus","Infection respiratoire aigue basse",0.0839921211908491,840
+"SOS","15 ans ou plus","Infection respiratoire aigue basse",0.109976385806875,1100
+"SOS","15 ans ou plus","Malaise",0.00910538780459746,91
+"SOS","15 ans ou plus","Malaise",0.0107038412376144,107
+"SOS","15 ans ou plus","Malaise",0.0123022946706313,123
+"SOS","15 ans ou plus","Meningite",0.000162324034864366,2
+"SOS","15 ans ou plus","Meningite",0.000324648069728732,3
+"SOS","15 ans ou plus","Meningite",0.000486972104593098,5
+"SOS","15 ans ou plus","Pneumopathie",0.0086053911449895,86
+"SOS","15 ans ou plus","Pneumopathie",0.0107378628712207,107
+"SOS","15 ans ou plus","Pneumopathie",0.012870334597452,129
+"SOS","15 ans ou plus","Syndrome grippal",0.0129599967683006,130
+"SOS","15 ans ou plus","Syndrome grippal",0.0238233851090576,238
+"SOS","15 ans ou plus","Syndrome grippal",0.0346867734498146,347
+"SOS","15 ans ou plus","Toxi-infection alimentaire collective",6.94533834861056e-05,1
+"SOS","15 ans ou plus","Toxi-infection alimentaire collective",0.000138906766972211,1
+"SOS","15 ans ou plus","Toxi-infection alimentaire collective",0.000208360150458317,2
+"SOS","15-64 ans","Asthme",0.00803586530775261,80
+"SOS","15-64 ans","Asthme",0.0104022680494909,104
+"SOS","15-64 ans","Asthme",0.0127686707912293,128
+"SOS","15-64 ans","Bronchiolite",0.000100424878119401,1
+"SOS","15-64 ans","Bronchiolite",0.000200849756238801,2
+"SOS","15-64 ans","Bronchiolite",0.000301274634358202,3
+"SOS","15-64 ans","Bronchite",0.0274333362525443,274
+"SOS","15-64 ans","Bronchite",0.0390956444677053,391
+"SOS","15-64 ans","Bronchite",0.0507579526828664,508
+"SOS","15-64 ans","Fievre isolee",0.00894960808228075,89
+"SOS","15-64 ans","Fievre isolee",0.0121613330956634,122
+"SOS","15-64 ans","Fievre isolee",0.0153730581090461,154
+"SOS","15-64 ans","Gastro-enterite",0.0701114703240242,701
+"SOS","15-64 ans","Gastro-enterite",0.0900048027106122,900
+"SOS","15-64 ans","Gastro-enterite",0.1098981350972,1099
+"SOS","15-64 ans","Infection respiratoire aigue basse",0.0496858785344453,497
+"SOS","15-64 ans","Infection respiratoire aigue basse",0.0762579065384574,763
+"SOS","15-64 ans","Infection respiratoire aigue basse",0.102829934542469,1028
+"SOS","15-64 ans","Malaise",0.00721968672053396,72
+"SOS","15-64 ans","Malaise",0.0085102487580876,85
+"SOS","15-64 ans","Malaise",0.00980081079564123,98
+"SOS","15-64 ans","Meningite",0.000211872154136334,2
+"SOS","15-64 ans","Meningite",0.000423744308272669,4
+"SOS","15-64 ans","Meningite",0.000635616462409003,6
+"SOS","15-64 ans","Pneumopathie",0.00407826782439425,41
+"SOS","15-64 ans","Pneumopathie",0.00554078885307832,55
+"SOS","15-64 ans","Pneumopathie",0.00700330988176239,70
+"SOS","15-64 ans","Syndrome grippal",0.0160592689844299,161
+"SOS","15-64 ans","Syndrome grippal",0.0294517132681368,295
+"SOS","15-64 ans","Syndrome grippal",0.0428441575518438,428
+"SOS","15-64 ans","Toxi-infection alimentaire collective",8.64877857844404e-05,1
+"SOS","15-64 ans","Toxi-infection alimentaire collective",0.000172975571568881,2
+"SOS","15-64 ans","Toxi-infection alimentaire collective",0.000259463357353321,3
+"SOS","15-74 ans","Asthme",0.00806653004927961,81
+"SOS","15-74 ans","Asthme",0.0103469325180178,103
+"SOS","15-74 ans","Asthme",0.0126273349867559,126
+"SOS","15-74 ans","Bronchiolite",9.99021434654305e-05,1
+"SOS","15-74 ans","Bronchiolite",0.000199804286930861,2
+"SOS","15-74 ans","Bronchiolite",0.000299706430396292,3
+"SOS","15-74 ans","Bronchite",0.0283866580699653,284
+"SOS","15-74 ans","Bronchite",0.0402706185835992,403
+"SOS","15-74 ans","Bronchite",0.0521545790972332,522
+"SOS","15-74 ans","Fievre isolee",0.00976040115858916,98
+"SOS","15-74 ans","Fievre isolee",0.012912791031586,129
+"SOS","15-74 ans","Fievre isolee",0.0160651809045829,161
+"SOS","15-74 ans","Gastro-enterite",0.0674810185061565,675
+"SOS","15-74 ans","Gastro-enterite",0.0864447458235968,864
+"SOS","15-74 ans","Gastro-enterite",0.105408473141037,1054
+"SOS","15-74 ans","Infection respiratoire aigue basse",0.0518615030202579,519
+"SOS","15-74 ans","Infection respiratoire aigue basse",0.0785383002216083,785
+"SOS","15-74 ans","Infection respiratoire aigue basse",0.105215097422959,1052
+"SOS","15-74 ans","Malaise",0.00778094303112345,78
+"SOS","15-74 ans","Malaise",0.00908011604043324,91
+"SOS","15-74 ans","Malaise",0.010379289049743,104
+"SOS","15-74 ans","Meningite",0.000195860136940093,2
+"SOS","15-74 ans","Meningite",0.000391720273880186,4
+"SOS","15-74 ans","Meningite",0.000587580410820279,6
+"SOS","15-74 ans","Pneumopathie",0.00515397713160991,52
+"SOS","15-74 ans","Pneumopathie",0.00668155406981181,67
+"SOS","15-74 ans","Pneumopathie",0.00820913100801371,82
+"SOS","15-74 ans","Syndrome grippal",0.0152892625030108,153
+"SOS","15-74 ans","Syndrome grippal",0.0279767090446771,280
+"SOS","15-74 ans","Syndrome grippal",0.0406641555863434,407
+"SOS","15-74 ans","Toxi-infection alimentaire collective",8.08745586397247e-05,1
+"SOS","15-74 ans","Toxi-infection alimentaire collective",0.000161749117279449,2
+"SOS","15-74 ans","Toxi-infection alimentaire collective",0.000242623675919174,2
+"SOS","65 ans ou plus","Asthme",0.00616704210432328,62
+"SOS","65 ans ou plus","Asthme",0.0088427207393338,88
+"SOS","65 ans ou plus","Asthme",0.0115183993743443,115
+"SOS","65 ans ou plus","Bronchiolite",0.000125252643986665,1
+"SOS","65 ans ou plus","Bronchiolite",0.00025050528797333,3
+"SOS","65 ans ou plus","Bronchiolite",0.000375757931959995,4
+"SOS","65 ans ou plus","Bronchite",0.037969831844483,380
+"SOS","65 ans ou plus","Bronchite",0.0550865831202456,551
+"SOS","65 ans ou plus","Bronchite",0.0722033343960083,722
+"SOS","65 ans ou plus","Fievre isolee",0.0149755468177026,150
+"SOS","65 ans ou plus","Fievre isolee",0.0185874572717689,186
+"SOS","65 ans ou plus","Fievre isolee",0.0221993677258352,222
+"SOS","65 ans ou plus","Gastro-enterite",0.0271232118368587,271
+"SOS","65 ans ou plus","Gastro-enterite",0.0360883760270004,361
+"SOS","65 ans ou plus","Gastro-enterite",0.0450535402171421,451
+"SOS","65 ans ou plus","Infection respiratoire aigue basse",0.0751377942842121,751
+"SOS","65 ans ou plus","Infection respiratoire aigue basse",0.10003783789652,1000
+"SOS","65 ans ou plus","Infection respiratoire aigue basse",0.124937881508828,1249
+"SOS","65 ans ou plus","Malaise",0.0147589783343743,148
+"SOS","65 ans ou plus","Malaise",0.017461429343914,175
+"SOS","65 ans ou plus","Malaise",0.0201638803534538,202
+"SOS","65 ans ou plus","Meningite",6.37079146420091e-05,1
+"SOS","65 ans ou plus","Meningite",0.000127415829284018,1
+"SOS","65 ans ou plus","Meningite",0.000191123743926027,2
+"SOS","65 ans ou plus","Pneumopathie",0.0198983514478648,199
+"SOS","65 ans ou plus","Pneumopathie",0.0257866579578496,258
+"SOS","65 ans ou plus","Pneumopathie",0.0316749644678345,317
+"SOS","65 ans ou plus","Syndrome grippal",0.00355905213182594,36
+"SOS","65 ans ou plus","Syndrome grippal",0.00692004524206344,69
+"SOS","65 ans ou plus","Syndrome grippal",0.0102810383523009,103
+"SOS","65 ans ou plus","Toxi-infection alimentaire collective",5.39506758775862e-05,1
+"SOS","65 ans ou plus","Toxi-infection alimentaire collective",0.000107901351755172,1
+"SOS","65 ans ou plus","Toxi-infection alimentaire collective",0.000161852027632759,2
+"SOS","65-74 ans","Asthme",0.00664641320478023,66
+"SOS","65-74 ans","Asthme",0.0101047286412289,101
+"SOS","65-74 ans","Asthme",0.0135630440776776,136
+"SOS","65-74 ans","Bronchiolite",0.00020459959200819,2
+"SOS","65-74 ans","Bronchiolite",0.00040919918401638,4
+"SOS","65-74 ans","Bronchiolite",0.00061379877602457,6
+"SOS","65-74 ans","Bronchite",0.0387056267814541,387
+"SOS","65-74 ans","Bronchite",0.0571469363822915,571
+"SOS","65-74 ans","Bronchite",0.075588245983129,756
+"SOS","65-74 ans","Fievre isolee",0.014781972207872,148
+"SOS","65-74 ans","Fievre isolee",0.0202568089452166,203
+"SOS","65-74 ans","Fievre isolee",0.0257316456825611,257
+"SOS","65-74 ans","Gastro-enterite",0.0314579794536856,315
+"SOS","65-74 ans","Gastro-enterite",0.0435380904728989,435
+"SOS","65-74 ans","Gastro-enterite",0.0556182014921123,556
+"SOS","65-74 ans","Infection respiratoire aigue basse",0.0665883127140161,666
+"SOS","65-74 ans","Infection respiratoire aigue basse",0.0962638737501798,963
+"SOS","65-74 ans","Infection respiratoire aigue basse",0.125939434786343,1259
+"SOS","65-74 ans","Malaise",0.0103684656907538,104
+"SOS","65-74 ans","Malaise",0.0146269517481064,146
+"SOS","65-74 ans","Malaise",0.0188854378054589,189
+"SOS","65-74 ans","Meningite",0.000167759823654271,2
+"SOS","65-74 ans","Meningite",0.000335519647308542,3
+"SOS","65-74 ans","Meningite",0.000503279470962813,5
+"SOS","65-74 ans","Pneumopathie",0.0118295540617085,118
+"SOS","65-74 ans","Pneumopathie",0.0175780270423359,176
+"SOS","65-74 ans","Pneumopathie",0.0233265000229633,233
+"SOS","65-74 ans","Syndrome grippal",0.0062871991183806,63
+"SOS","65-74 ans","Syndrome grippal",0.0125743982367612,126
+"SOS","65-74 ans","Syndrome grippal",0.0188615973551418,189
+"SOS","65-74 ans","Toxi-infection alimentaire collective",0,0
+"SOS","75 ans ou plus","Asthme",0.00577808688801876,58
+"SOS","75 ans ou plus","Asthme",0.00845619960915558,85
+"SOS","75 ans ou plus","Asthme",0.0111343123302924,111
+"SOS","75 ans ou plus","Bronchiolite",0.000119543025783605,1
+"SOS","75 ans ou plus","Bronchiolite",0.000239086051567209,2
+"SOS","75 ans ou plus","Bronchiolite",0.000358629077350814,4
+"SOS","75 ans ou plus","Bronchite",0.0365742318136282,366
+"SOS","75 ans ou plus","Bronchite",0.054054884105645,541
+"SOS","75 ans ou plus","Bronchite",0.0715355363976618,715
+"SOS","75 ans ou plus","Fievre isolee",0.0145387130515508,145
+"SOS","75 ans ou plus","Fievre isolee",0.0180610792658592,181
+"SOS","75 ans ou plus","Fievre isolee",0.0215834454801677,216
+"SOS","75 ans ou plus","Gastro-enterite",0.0241298190607272,241
+"SOS","75 ans ou plus","Gastro-enterite",0.0327272449066578,327
+"SOS","75 ans ou plus","Gastro-enterite",0.0413246707525884,413
+"SOS","75 ans ou plus","Infection respiratoire aigue basse",0.0765115386431254,765
+"SOS","75 ans ou plus","Infection respiratoire aigue basse",0.0993092711595198,993
+"SOS","75 ans ou plus","Infection respiratoire aigue basse",0.122107003675914,1221
+"SOS","75 ans ou plus","Malaise",0.0150113657074221,150
+"SOS","75 ans ou plus","Malaise",0.0181633497968857,182
+"SOS","75 ans ou plus","Malaise",0.0213153338863493,213
+"SOS","75 ans ou plus","Meningite",6.53240003347788e-05,1
+"SOS","75 ans ou plus","Meningite",0.000130648000669558,1
+"SOS","75 ans ou plus","Meningite",0.000195972001004336,2
+"SOS","75 ans ou plus","Pneumopathie",0.0218897427482601,219
+"SOS","75 ans ou plus","Pneumopathie",0.0287418915115578,287
+"SOS","75 ans ou plus","Pneumopathie",0.0355940402748556,356
+"SOS","75 ans ou plus","Syndrome grippal",0.00244448694247891,24
+"SOS","75 ans ou plus","Syndrome grippal",0.00488897388495782,49
+"SOS","75 ans ou plus","Syndrome grippal",0.00733346082743673,73
+"SOS","75 ans ou plus","Toxi-infection alimentaire collective",0,0
+"SOS","85 ans ou plus","Asthme",0.00496821808104423,50
+"SOS","85 ans ou plus","Asthme",0.00790906667399925,79
+"SOS","85 ans ou plus","Asthme",0.0108499152669543,108
+"SOS","85 ans ou plus","Bronchiolite",0.000155226523941608,2
+"SOS","85 ans ou plus","Bronchiolite",0.000310453047883215,3
+"SOS","85 ans ou plus","Bronchiolite",0.000465679571824823,5
+"SOS","85 ans ou plus","Bronchite",0.0365869854201884,366
+"SOS","85 ans ou plus","Bronchite",0.0531534369594734,532
+"SOS","85 ans ou plus","Bronchite",0.0697198884987584,697
+"SOS","85 ans ou plus","Fievre isolee",0.0118007537773545,118
+"SOS","85 ans ou plus","Fievre isolee",0.0163181863602442,163
+"SOS","85 ans ou plus","Fievre isolee",0.020835618943134,208
+"SOS","85 ans ou plus","Gastro-enterite",0.0194185658785071,194
+"SOS","85 ans ou plus","Gastro-enterite",0.027150337834147,272
+"SOS","85 ans ou plus","Gastro-enterite",0.034882109789787,349
+"SOS","85 ans ou plus","Infection respiratoire aigue basse",0.0787629602436651,788
+"SOS","85 ans ou plus","Infection respiratoire aigue basse",0.102183073289279,1022
+"SOS","85 ans ou plus","Infection respiratoire aigue basse",0.125603186334894,1256
+"SOS","85 ans ou plus","Malaise",0.0124979978688503,125
+"SOS","85 ans ou plus","Malaise",0.0169538437687599,170
+"SOS","85 ans ou plus","Malaise",0.0214096896686695,214
+"SOS","85 ans ou plus","Meningite",0,0
+"SOS","85 ans ou plus","Pneumopathie",0.0257776853606757,258
+"SOS","85 ans ou plus","Pneumopathie",0.0331660238602226,332
+"SOS","85 ans ou plus","Pneumopathie",0.0405543623597695,406
+"SOS","85 ans ou plus","Syndrome grippal",0.00144779093034613,14
+"SOS","85 ans ou plus","Syndrome grippal",0.00289558186069226,29
+"SOS","85 ans ou plus","Syndrome grippal",0.00434337279103839,43
+"SOS","85 ans ou plus","Toxi-infection alimentaire collective",0,0
+"Sentinelles","Tous ages","Gastro-enterite",105.333333333333,105
+"Sentinelles","Tous ages","Gastro-enterite",144.666666666667,145
+"Sentinelles","Tous ages","Gastro-enterite",184,184
+"Sentinelles","Tous ages","Syndrome grippal",24.3333333333333,24
+"Sentinelles","Tous ages","Syndrome grippal",47.6666666666667,48
+"Sentinelles","Tous ages","Syndrome grippal",71,71

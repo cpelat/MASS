@@ -1,0 +1,116 @@
+key;fr;en
+10,000 emergency room visits;10,000 passages aux urgences;10,000 emergency room visits
+100,000 inhabitants;100,000 habitants;100,000 inhabitants
+10,000 SOS Médecins consultations;10,000 consultations SOS Médecins;10,000 SOS Médecins consultations
+age class;Classe d'âge;Age class
+alarm level map;Carte des niveaux d'alarme;Alarm level map
+alarm level;Niveau d'alarme;Alarm level
+alarm levels;Niveaux d'alarme;Alarm levels
+alarm list;Listing des alarmes;Alarm list
+alarm maps;Cartes des alarmes;Alarm maps
+alarm matrix;Matrice des alarmes;Alarm matrix
+analyzed zone;Unité géographique d'analyse;Analyzed zone
+at;à;at
+calendar;Calendrier;Calendar
+cartography;Cartographier par;Mapped zones
+data;Données;Data
+data uploaded on;Données chargées le;Data uploaded on
+results;Résultats;Results
+date format;%d/%m/%Y;%Y-%m-%d
+dateInput format;dd/mm/yyyy;yyyy-mm-dd
+day;jour;day
+determination;Détermination des périodes épidémiques;Epidemic period determination
+detection method results;Résultats des méthodes de détection;Detection method results
+download;Télécharger;Download
+download title 1;Seuils et alarmes;Thresholds and alarms
+download title 2;Données de la carte des alarmes;Alarm map data
+of the alarms emitted;des alarmes émises par toutes les méthodes sur toutes les sources de données disponibles;of the alarms emitted by all the methods on all the available data sources 
+ending day;Jour de fin;Ending day
+ending month;Mois de fin;Ending month
+ending week;Semaine de fin;Ending week
+epidemic;Epidémie;Epidemic
+file description;Description du fichier;File description
+for;pour;for
+gauges;Jauges;Gauges
+help;Questions;Help
+HMM;Modèle de Markov caché;Hidden Markov Model 
+is;est;is
+lang_message; Voir le site en : ; Switch to: 
+language;fr;en 
+links;Liens;Links
+loading;Chargement des données;Loading
+maps;Cartes;Maps
+methods;Méthodes;Methods
+month;mois;month
+new region;Nouvelle région;New region
+no data1;"Pas de données ";"No "
+no data2;;" data"
+no epidemic;Pas d'épidémie;No epidemic
+no computable alarm level;Pas de niveau d'alarme calculable;No computable alarm level
+number of; Nombre de;Number of
+old region;Ancienne région;Old region
+percentiles calculated on the;Centiles calculés sur les;Percentiles calculated on the
+pre-epidemic;Pre/post-épidémie;Pre/post-epidemic
+proportion maps;Cartes des proportions;Proportion maps
+Serfling;Régression périodique;Periodic regression
+serf;RP;PR
+rob serf;RP robuste;robust PR
+Serfling_robuste;Régression périodique robuste;Robust periodic regression
+Serfling robuste;Régression périodique robuste;Robust periodic regression
+situation;Situation épidémiologique;Epidemiological situation
+starting day;Jour de début;Starting day
+starting month;Mois de début;Starting month
+starting week;Semaine de début;Starting week
+syndromic grouping;Regroupement syndromique;Syndromic grouping
+synthesis;synthèse;synthesis
+table;Tableau;Table
+the alarm level is the;Le niveau d'alarme est la;The alarm level is the
+thresholds;Seuils;Thresholds
+time series;Séries temporelles;Time series
+time unit;Unité de temps;Time unit
+titre;"Module d'Analyse des données SurSaUD&#174; et Sentinelles";"Module for the Analysis of SurSaUD&#174; and Sentinelles&#39; data"
+to;à;to
+Toutes;Toutes;All sources
+visits;passages;visits
+week;semaine;week
+what is new;Quoi de neuf?;What's new?
+Asthme;Asthme;Asthma
+Bronchiolite;Bronchiolite;Bronchiolitis
+Bronchite;Bronchite;Bronchitis
+Fievre isolee;Fièvre isolée;Isolated fever
+Gastro-enterite;Gastro-entérite;Gastro-enteritis
+Infection respiratoire aigue basse;Infection respiratoire aigüe basse;Acute lower respiratory infection
+Intoxication par ingestion de champignons;Intoxication par ingestion de champignons;Mushroom poisoning
+Malaise;Malaise;Malaise
+Meningite;Méningite;Meningitis
+Pneumopathie;Pneumopathie;Pulmonary disease
+Syndrome grippal;Syndrome grippal;Influenza-like illness
+Toxi-infection alimentaire collective;Toxi-infection alimentaire collective;Foodborne illness outbreak
+Tous ages;Tous âges;All ages
+Moins de 2 ans;Moins de 2 ans;Younger than 2 years
+Moins de 5 ans;Moins de 5 ans;Younger than 5 years
+Moins de 15 ans;Moins de 15 ans;Younger than 15 years
+2-14 ans;2-14 ans;2-14 years
+5-14 ans;5-14 ans;5-14 years
+15 ans ou plus;15 ans ou plus;15 years or more
+15-64 ans;15-64 ans;15-64 years
+15-74 ans;15-74 ans;15-74 years
+65 ans ou plus;65 ans ou plus;65 years or more
+65-74 ans;65-74 ans;65-74 years
+75 ans ou plus;75 ans ou plus;75 years or more
+85 ans ou plus;85 ans ou plus;85 years or more
+FRANCE;France entière;Whole France
+METROPOLE;Métropole;Mainland France
+regionsN;Nouvelles régions;New regions
+regionsA;Anciennes régions;Old regions
+Semaine;Semaine;Week
+RS;Regroupement syndromique;Syndromic grouping
+Classe_age;Classe d'âge;Age class
+Methode;Méthode(s) ayant émis une alarme;Method(s) that emitted an alarm
+Nb_passages;Nombre de passages;Number of visits
+Nb_total_passages;Nombre total de passages;Total number of visits
+Proportion2;Indicateur;Indicator
+Proportion_low;Borne inf de l'IC 95%;95% lower confidence bound
+Proportion_up;Borne sup de l'IC 95%;95% upper confidence bound
+SAU;SAU;ED
+SOS;SOS;SOS Médecins

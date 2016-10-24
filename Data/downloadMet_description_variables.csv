@@ -1,0 +1,24 @@
+Variable;Description
+Region;Code INSEE de la zone géographique analysée (pour régions et départements) ou son nom (pour France et métropole)
+Nom_region;nom de la zone géographique
+RS;Regroupement syndromique
+Source;Source des données (SAU, SOS ou Sentinelles)
+Classe_age;Classe d'âge
+Semaine;Numéro de la semaine
+d;Premier jour de la semaine
+Dates;Jour 1 (lundi) et 7 (dimanche) de la semaine
+Nb_passages;Pour SOS et SAU uniquement: nombre de passages codés pour ce regroupement syndromique, cette classe d'âge, cette semaine, dans cette source de données
+Nb_total_passages;Pour SOS et SAU uniquement: nombre de passages codés pour cette classe d'âge, cette semaine, dans cette source de données
+Nb_total_passages_tousages;Pour SOS et SAU uniquement: nombre de passages codés cette semaine dans cette source de données
+Proportion;Pour SOS et SAU : Nb_passages / Nb_total_passages. Pour Sentinelles : taux d'incidence pour 100,000 habitants calculé et transmis par le Réseau Sentinelles.
+Proportion_low;Pour Sentinelles uniquement : borne inférieure du taux d'incidence estimé par Sentinelles à partir de son échantillon de médecins.
+Proportion_up;Pour Sentinelles uniquement : borne supérieure du taux d'incidence estimé par Sentinelles à partir de son échantillon de médecins.
+baseline;Niveau de base de la Proportion attendu en l'absence d'épidémie, modélisé avec la régression périodique
+serf95;Borne supérieure de l'IC95% du niveau de base attendu en l'absence d'épidémie modélisé avec la régression périodique
+baseline_robuste;Niveau de base de la Proportion attendu en l'absence d'épidémie, modélisé avec la régression périodique robuste
+serf95_robuste;Borne supérieure de l'IC95% du niveau de base attendu en l'absence d'épidémie modélisé avec la régression périodique robuste
+alarme_Serfling;Absence/Présence (0/1) d'une alarme émise par la méthode de régression périodique
+alarme_Serfling_robuste;Absence/Présence (0/1) d'une alarme émise par la méthode de régression périodique robuste
+alarme_HMM;Absence/Présence (0/1) d'une alarme émise par la méthode des chaînes de Markov cachées
+n_alarmes;Nombre d'alarmes épidémiques pour cette source, cette classe d'âge, cette semaine
+n_methodes;Nombre de méthodes statistiques ayant fonctionné pour cette source, cette classe d'âge, cette semaine (max: 3)

@@ -1,0 +1,18 @@
+Variable;Description
+Region;Code INSEE de la zone géographique analysée (pour régions et départements) ou son nom (pour France et métropole)
+Nom_region;nom de la zone géographique
+RS;Regroupement syndromique
+Classe_age;Classe d'âge
+Semaine;Numéro de la semaine
+d;Premier jour de la semaine
+Dates;Jour 1 (lundi) et 7 (dimanche) de la semaine
+alarme_Serfling_SAU;Absence/Présence (0/1) d'une alarme émise par la méthode de régression périodique sur les données SAU
+alarme_Serfling_robuste_SAU;Absence/Présence (0/1) d'une alarme émise par la méthode de régression périodique robuste sur les données SAU
+alarme_HMM_SAU;Absence/Présence (0/1) d'une alarme émise par la méthode des chaînes de Markov cachées sur les données SAU
+alarme_Serfling_SOS;Absence/Présence (0/1) d'une alarme émise par la méthode de régression périodique sur les données SOS
+alarme_Serfling_robuste_SOS;Absence/Présence (0/1) d'une alarme émise par la méthode de régression périodique robuste sur les données SOS
+alarme_HMM_SOS;Absence/Présence (0/1) d'une alarme émise par la méthode des chaînes de Markov cachées sur les données SOS
+alarme_Serfling_Sentinelles;Absence/Présence (0/1) d'une alarme émise par la méthode de régression périodique sur les données Sentinelles
+alarme_Serfling_robuste_Sentinelles;Absence/Présence (0/1) d'une alarme émise par la méthode de régression périodique robuste sur les données Sentinelles
+alarme_HMM_Sentinelles;Absence/Présence (0/1) d'une alarme émise par la méthode des chaînes de Markov cachées sur les données Sentinelles
+niv_alarme;1 (vert) si prop_alarmes* < 0.4, 2 (orange) si prop_alarmes* >= 0.4 et prop_alarmes* < 1, 3 (rouge) si prop_alarmes* == 1, NA si incalculable (donnée manquante ou aucune méthode n'a fonctionné).
