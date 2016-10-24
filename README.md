@@ -14,4 +14,7 @@ MASS has been used since autumn 2015 by Santé publique France, the French natio
 Camille Pelat and Yann Le Strat. Contact: camille [dot] pelat [at] santepubliquefrance [dot] fr.
 
 ## Demo
-A demonstration of the application is available at https://cpelat.shinyapps.io/mass/.
+A demonstration of MASS is available at https://cpelat.shinyapps.io/mass/.
+
+## Data
+MASS's R code is provided along with surveillance data for various diseases in France, aggregated by week or by month, covering the period 2010-01-01 to 2012-04-30.
