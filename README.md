@@ -1,7 +1,7 @@
 # MASS 
 
 ## "Module for the Analysis of SurSaUD and Sentinelles's data"
-An R-shiny application for public health surveillance.
+An R-shiny application for disease surveillance.
 
 ## What is MASS ?
 MASS was developped in 2015 to help epidemiologists visualize and analyze in real time surveillance data, in particular influenza data.
