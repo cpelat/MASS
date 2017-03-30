@@ -15,4 +15,4 @@ Camille Pelat and Yann Le Strat. Contact: camille [dot] pelat [at] santepublique
 A demonstration of MASS is available at https://cpelat.shinyapps.io/mass/.
 
 ## Data
-MASS's R code is provided along with surveillance data for various diseases in France, aggregated by week or by month, covering the period 2010-01-01 to 2012-04-30.
+MASS's R code is provided along with fake surveillance data based on surveillance data for France, covering the period 2010-01-01 to 2012-04-30.
