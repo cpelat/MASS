@@ -12,7 +12,7 @@ MASS code undergoes frequent modifications.
 Camille Pelat and Yann Le Strat. Contact: camille [dot] pelat [at] santepubliquefrance [dot] fr.
 
 ## Demo
-A demonstration of MASS is available at https://dataviz.santepubliquefrance.fr/mass/ or https://cpelat.shinyapps.io/mass/.
+A demonstration of MASS is available at https://cpelat.shinyapps.io/mass/.
 
 ## Data
 MASS's R code is provided along with fake surveillance data based on surveillance data for France, covering the period 2010-01-01 to 2012-04-30.
